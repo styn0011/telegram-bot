@@ -1,6 +1,5 @@
-python-telegram-bot
+pyTelegramBotAPI
 gspread
 oauth2client
 pandas
-openpyxl
 schedule
